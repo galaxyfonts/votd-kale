@@ -1,0 +1,38 @@
+[
+  {
+    "linkid": "1",
+    "type": "votd",
+    "month": "3",
+    "year": "2016",
+    "version": "NIV",
+    "url": "https://raw.githubusercontent.com/galaxyfonts/votd/master/niv/niv_03.json",
+    "status": "1"
+  },
+  {
+    "linkid": "2",
+    "type": "votd",
+    "month": "3",
+    "year": "2016",
+    "version": "KJV",
+    "url": "https://raw.githubusercontent.com/galaxyfonts/votd/master/kjv/kjv0316.json",
+    "status": "1"
+  },
+  {
+    "linkid": "3",
+    "type": "votd",
+    "month": "4",
+    "year": "2016",
+    "version": "NIV",
+    "url": "https://raw.githubusercontent.com/galaxyfonts/votd/master/niv/niv_042016.json",
+    "status": "1"
+  },
+  {
+    "linkid": "4",
+    "type": "votd",
+    "month": "4",
+    "year": "2016",
+    "version": "KJV",
+    "url": "https://raw.githubusercontent.com/galaxyfonts/votd/master/kjv/kjv_042016.json",
+    "status": "1"
+  }
+]
